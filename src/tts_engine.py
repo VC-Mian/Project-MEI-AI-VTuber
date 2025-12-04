@@ -1,10 +1,18 @@
-'''
-Allows meibo to speak in chat and in a separate thread. Picks random chatters comment to repsoned too. 
+"""
+TTS Engine Module - Handles text-to-speech conversion
 
-To be added:
-Filters- curses, offensive language, etc.
+This module:
+- Converts AI responses to speech
+- Runs in separate thread to avoid blocking
+- Automatically selects female voice if available
+- Allows runtime toggling of TTS
 
-'''
+Future improvements:
+- Upgrade to ElevenLabs for better voice quality
+- Add multilingual support
+- Implement custom voice profiles
+- Add filters
+"""
 
 import pyttsx3
 import threading
