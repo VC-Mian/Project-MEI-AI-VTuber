@@ -95,7 +95,8 @@ Prerequisites: Python 3.8+, VTube Studio, Twitch account, Claude/OpenAI API key
    - Multi-threaded TTS processing
    - API rate limiting and reconnection logic
 
-##  Future Improvements & integrations
+##  Future Improvements & Goals
+   - Add Subtitles
    - Upgrade TTS to ElevenLabs for better voice quality
    - Create custom fine-tuned model for character
    - Add sentiment analysis for dynamic expressions
