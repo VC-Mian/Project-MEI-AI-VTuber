@@ -1,3 +1,12 @@
+"""
+AI Brain Module - Handles LLM integration and response generation
+
+CUSTOMIZATION GUIDE:
+1. Update trigger words in should_respond() method (bottom of file)
+2. Adjust max_history if needed (default: 10 messages)
+3. Modify max_tokens in _generate_claude_response() for longer/shorter responses
+"""
+
 import anthropic
 from src.config import Config
 
