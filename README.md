@@ -26,6 +26,7 @@ and character animation to create an engaging streaming experience.
 4. Automated lip-sync animation via VTube Studio API
 5. Text-to-speech voice synthesis
 6. Auto-reconnection handling for stable streaming
+7. Bot Commands
 
 ## Tech Stack
 **Core Technologies**
