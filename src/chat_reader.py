@@ -1,3 +1,13 @@
+"""
+Chat Reader Module - Handles Twitch integration and message processing
+
+This module manages:
+- Connection to Twitch IRC
+- Message queue for sequential processing
+- Commands for moderators
+- Integration with AI brain, TTS, and VTuber controller
+"""
+
 from twitchio.ext import commands
 import asyncio
 from queue import Queue
