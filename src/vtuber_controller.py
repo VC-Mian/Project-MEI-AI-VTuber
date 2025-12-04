@@ -1,3 +1,15 @@
+"""
+VTuber Controller Module - Handles VTube Studio API integration
+
+This module controls:
+- Connection to VTube Studio via WebSocket
+- Lip-sync animation during speech
+- Auto-reconnection if connection drops
+- Future: Facial expressions and emotions
+
+OPTIONAL: Bot works without VTube Studio. If not connected, it will skip animation. Can be used as chat bot instead of streamer bot
+"""
+
 import asyncio
 import pyvts
 
