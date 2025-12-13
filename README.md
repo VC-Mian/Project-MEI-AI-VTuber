@@ -103,8 +103,8 @@ Prerequisites: Python 3.8+, VTube Studio, Twitch account, Claude/OpenAI API key
    - Create custom fine-tuned model for character
    - Add sentiment analysis for dynamic expressions
    - Implement long-term memory
-   - Rig Custom Vtuber Model
    - Minecraft game play
+   - Custom Vtuber Model
 
 ## Challenges & Solutions
 
