@@ -2,6 +2,8 @@
 
 > **📍 STATUS:** (WIP) Basic Features added, streamable. Currently working on Subtitles.
 
+Video Demo: [Link](https://youtu.be/Zv099QFEzpQ)
+
 This is Meibo an AI VTuber that interacts with Twitch viewers in real-time. 
 Inspired by Vedal who programed the AI Vtuber on Twitch, Neuro-sama, this project demonstrates the integration of large language models, real-time chat processing, 
 and character animation to create an engaging streaming experience. 
