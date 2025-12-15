@@ -58,11 +58,11 @@ and character animation to create an engaging streaming experience.
     ```bash
     
       Twitch Chat → Message Queue → Claude/OpenAI API → AI Response
-                                                     ↓
-                                  ┌──────────────────┼──────────────────┐
-                                  ↓                  ↓                  ↓
-                            Twitch Chat          TTS Engine      VTube Studio
-                            (text reply)       (voice output)     (lip-sync)
+                                                           ↓
+                                        ┌──────────────────┼──────────────────┐
+                                        ↓                  ↓                  ↓
+                                   Twitch Chat         TTS Engine      VTube Studio
+                                   (text reply)      (voice output)     (lip-sync)
      ```
    1. Message Reception: Bot monitors your Twitch chat for trigger words
    2. Queueing: Messages processed one at a time to prevent overlap
