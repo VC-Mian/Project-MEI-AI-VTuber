@@ -1,6 +1,6 @@
 # Project_MEI
 
-> **📍 STATUS:** (WIP) Basic Features added, streamable. Currently working on Subtitles.
+> **📍 STATUS:** (WIP) Functional prototype complete, systems integrated and working, still adding and improving features. Currently working on Subtitles.
 
 Video Demo: [Link](https://youtu.be/Zv099QFEzpQ)
 
