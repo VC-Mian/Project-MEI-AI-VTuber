@@ -99,11 +99,12 @@ Prerequisites: Python 3.8+, VTube Studio, Twitch account, Claude/OpenAI API key
 
 ##  Future Improvements & Goals
    - Add Subtitles
+   - User voice activation
    - Upgrade TTS to ElevenLabs for better voice quality
    - Create custom fine-tuned model for character
    - Add sentiment analysis for dynamic expressions
    - Implement long-term memory
-   - Minecraft game play
+   - Ai gameplay
    - Custom Vtuber Model
 
 ## Challenges & Solutions
